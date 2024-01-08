@@ -1,6 +1,6 @@
 ### :v:
 * Hi, my name is **Jiajun Huang(黄嘉俊)**. 
-* I am currently a second-year CS PhD student at the <mark>University of California, Riverside</mark>.
+* I am currently a third-year CS PhD student at the <mark>University of California, Riverside</mark>.
 * I am interested in Distributed and Parallel Computing/System, High Performance Computing, and General Artificial Intelligence.
 * Please see my personal [website](https://jiajunhuang1999.github.io/profile/) for more information about me.
 
